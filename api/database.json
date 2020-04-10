@@ -25,5 +25,42 @@
       "commonName": "Snapdragon",
       "color": "Purple"
     }
+  ],
+  "retailers": [
+    {
+      "id": 1,
+      "retailername": "Lowes",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": 11111
+    },
+    {
+      "id": 2,
+      "retailername": "Home Depo",
+      "city": "Rome",
+      "state": "GA",
+      "zip": 22222
+    },
+    {
+      "id": 3,
+      "retailername": "Ace Hardware",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": 33333
+    },
+    {
+      "id": 4,
+      "retailername": "Lawn and Garden",
+      "city": "Marathon",
+      "state": "FL",
+      "zip": 44444
+    },
+    {
+      "id": 1,
+      "retailername": "Steve's Flower Mart",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": 55555
+    }
   ]
 }
